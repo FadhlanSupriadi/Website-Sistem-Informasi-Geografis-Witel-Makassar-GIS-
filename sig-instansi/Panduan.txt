@@ -1,0 +1,11 @@
+Panduan Website Sistem Informasi Geografis Witel Makassar 
+
+- Disarankan menggunakan versi Xampp >> xampp-win32-5.6.31-0-VC11-installer
+- Pindahkan folder ke C:\xampp\htdocs
+- Frontend : http://localhost/sig-instansi/web
+- Backend : http://localhost/sig-instansi/adminweb
+- User : admin / Password : admin
+
+										Regards, Muhammad Fadhlan Supriadi
+
+ 				
